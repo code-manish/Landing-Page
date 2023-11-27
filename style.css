@@ -100,6 +100,7 @@ img{
 }
 .soup{
     height: 150px;
+    cursor:pointer;
 }
 .description{
     font-size: 20px;
